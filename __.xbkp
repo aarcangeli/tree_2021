@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.37</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>y2meta.com - The Weeknd - Blinding Lights (Official Audio)</song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>F:\christmas-tree-2021\Musics\yt5s.com - The Weeknd - Blinding Lights (Official Audio) (128 kbps).mp3</mediaFile>
+    <sequenceDuration>203.313</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Lines_FadeTrails=1,E_SLIDER_Lines_Objects=2,E_SLIDER_Lines_Segments=3,E_SLIDER_Lines_Speed=1,E_SLIDER_Lines_Thickness=1,E_SLIDER_Lines_Trails=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
+    <Element collapsed="0" type="timing" name="350ms Metronome" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Bars" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="Poly Line" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="350ms Metronome" fixed="350">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="Bars">
+      <EffectLayer>
+        <Effect label="6" startTime="12000" endTime="14750"></Effect>
+        <Effect label="7" startTime="14750" endTime="17600"></Effect>
+        <Effect label="8" startTime="17600" endTime="20700"></Effect>
+        <Effect label="9" startTime="20700" endTime="23500"></Effect>
+        <Effect label="10" startTime="23500" endTime="26300"></Effect>
+        <Effect label="11" startTime="26300" endTime="29100"></Effect>
+        <Effect label="12" startTime="29100" endTime="31900"></Effect>
+        <Effect label="13" startTime="31900" endTime="34750"></Effect>
+        <Effect label="14" startTime="34750" endTime="37550"></Effect>
+        <Effect label="15" startTime="37550" endTime="40350"></Effect>
+        <Effect label="16" startTime="40350" endTime="43150"></Effect>
+        <Effect label="17" startTime="43150" endTime="45950"></Effect>
+        <Effect label="18" startTime="45950" endTime="48750"></Effect>
+        <Effect label="19" startTime="48750" endTime="51550"></Effect>
+        <Effect label="20" startTime="51550" endTime="54350"></Effect>
+        <Effect label="21" startTime="54350" endTime="57200"></Effect>
+        <Effect label="22" startTime="57200" endTime="60000"></Effect>
+        <Effect label="23" startTime="60000" endTime="62800"></Effect>
+        <Effect label="24" startTime="62800" endTime="65600"></Effect>
+        <Effect label="25" startTime="65600" endTime="68400"></Effect>
+        <Effect label="26" startTime="68400" endTime="71200"></Effect>
+        <Effect label="27" startTime="71200" endTime="74050"></Effect>
+        <Effect label="28" startTime="74050" endTime="76800"></Effect>
+        <Effect label="29" startTime="76800" endTime="79650"></Effect>
+        <Effect label="30" startTime="79650" endTime="82450"></Effect>
+        <Effect label="31" startTime="82450" endTime="85250"></Effect>
+        <Effect label="32" startTime="85250" endTime="88050"></Effect>
+        <Effect label="33" startTime="88050" endTime="90850"></Effect>
+        <Effect label="34" startTime="90850" endTime="93650"></Effect>
+        <Effect label="35" startTime="93650" endTime="96500"></Effect>
+        <Effect label="36" startTime="96500" endTime="99300"></Effect>
+        <Effect label="37" startTime="99300" endTime="102100"></Effect>
+        <Effect label="38" startTime="102100" endTime="104900"></Effect>
+        <Effect label="39" startTime="104900" endTime="107700"></Effect>
+        <Effect label="40" startTime="107700" endTime="110550"></Effect>
+        <Effect label="41" startTime="110550" endTime="113300"></Effect>
+        <Effect label="42" startTime="113300" endTime="116100"></Effect>
+        <Effect label="43" startTime="116100" endTime="118950"></Effect>
+        <Effect label="44" startTime="118950" endTime="121750"></Effect>
+        <Effect label="45" startTime="121750" endTime="124550"></Effect>
+        <Effect label="46" startTime="124550" endTime="127350"></Effect>
+        <Effect label="47" startTime="127350" endTime="130150"></Effect>
+        <Effect label="48" startTime="130150" endTime="132950"></Effect>
+        <Effect label="49" startTime="132950" endTime="135800"></Effect>
+        <Effect label="50" startTime="135800" endTime="138600"></Effect>
+        <Effect label="51" startTime="138600" endTime="141400"></Effect>
+        <Effect label="52" startTime="141400" endTime="144200"></Effect>
+        <Effect label="53" startTime="144200" endTime="147000"></Effect>
+        <Effect label="54" startTime="147000" endTime="149800"></Effect>
+        <Effect label="55" startTime="149800" endTime="152600"></Effect>
+        <Effect label="56" startTime="152600" endTime="155400"></Effect>
+        <Effect label="57" startTime="155400" endTime="158250"></Effect>
+        <Effect label="58" startTime="158250" endTime="161050"></Effect>
+        <Effect label="59" startTime="161050" endTime="163850"></Effect>
+        <Effect label="60" startTime="163850" endTime="166650"></Effect>
+        <Effect label="61" startTime="166650" endTime="169450"></Effect>
+        <Effect label="62" startTime="169450" endTime="172250"></Effect>
+        <Effect label="63" startTime="172250" endTime="175050"></Effect>
+        <Effect label="64" startTime="175050" endTime="177900"></Effect>
+        <Effect label="65" startTime="177900" endTime="180700"></Effect>
+        <Effect label="66" startTime="180700" endTime="183500"></Effect>
+        <Effect label="67" startTime="183500" endTime="186300"></Effect>
+        <Effect label="68" startTime="186300" endTime="189150"></Effect>
+        <Effect label="69" startTime="189150" endTime="191900"></Effect>
+        <Effect label="70" startTime="191900" endTime="194700"></Effect>
+        <Effect label="71" startTime="194700" endTime="197600"></Effect>
+        <Effect label="72" startTime="197600" endTime="200500"></Effect>
+        <Effect label="73" startTime="200500" endTime="200500"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Poly Line">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="12000" endTime="14750" palette="0"/>
+        <Effect ref="0" name="Lines" selected="1" id="1" startTime="14750" endTime="17600" palette="0"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

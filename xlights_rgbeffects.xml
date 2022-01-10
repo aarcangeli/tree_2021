@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" CustomColor="#ff0000" StringType="Node Single Color" parm3="50" parm2="2" name="Square2" WorldPosX="-275.1704" WorldPosY="256.1432" WorldPosZ="0.0000" X2="64.501129" Y2="0.372192" Z2="0.000000" versionNumber="5" StartChannel="1203">
+      <ControllerConnection Protocol="Generic Serial"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" CustomColor="#ff0000" StringType="Node Single Color" parm3="50" parm2="2" name="Square1" WorldPosX="-368.3870" WorldPosY="254.0599" WorldPosZ="0.0000" X2="64.501129" Y2="0.372192" Z2="0.000000" versionNumber="5" StartChannel="1201">
+      <ControllerConnection Port="1" Protocol="Generic Serial"/>
+    </model>
+    <model DisplayAs="Twinkly Layout" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Twinkly Layout" LayoutGroup="Default" Controller="MyTwinkly" WorldPosX="-75.8329" WorldPosY="3.5224" WorldPosZ="25.4248" X2="123.945015" Y2="-2.804993" Z2="17.625427" RotateX="0.00000000" Height="2.840707" Angle="0" versionNumber="5" StartChannel="!MyTwinkly:1">
+      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <LightPosition X="0.069946" Y="0.105774" Z="0.785522"/>
+      <LightPosition X="-0.110352" Y="0.107727" Z="0.782349"/>
+      <LightPosition X="-0.280029" Y="0.082581" Z="0.804077"/>
+      <LightPosition X="-0.356079" Y="0.065125" Z="0.748901"/>
+      <LightPosition X="-0.416992" Y="0.026367" Z="0.762939"/>
+      <LightPosition X="-0.500610" Y="0.047302" Z="0.744629"/>
+      <LightPosition X="-0.584229" Y="0.068176" Z="0.726196"/>
+      <LightPosition X="-0.735840" Y="0.065979" Z="0.582520"/>
+      <LightPosition X="-0.787231" Y="0.036377" Z="0.359253"/>
+      <LightPosition X="-0.865112" Y="0.113342" Z="0.252441"/>
+      <LightPosition X="-0.959839" Y="0.052002" Z="0.132202"/>
+      <LightPosition X="-0.990967" Y="0.105957" Z="0.013794"/>
+      <LightPosition X="-1.000000" Y="0.087463" Z="-0.254272"/>
+      <LightPosition X="-0.789062" Y="0.083374" Z="-0.279663"/>
+      <LightPosition X="-0.690674" Y="0.126526" Z="-0.406738"/>
+      <LightPosition X="-0.558594" Y="0.125610" Z="-0.502075"/>
+      <LightPosition X="-0.426392" Y="0.124634" Z="-0.597534"/>
+      <LightPosition X="-0.294189" Y="0.123718" Z="-0.692993"/>
+      <LightPosition X="-0.133179" Y="0.093811" Z="-0.703857"/>
+      <LightPosition X="0.044922" Y="0.149536" Z="-0.698364"/>
+      <LightPosition X="0.181519" Y="0.137085" Z="-0.692627"/>
+      <LightPosition X="0.379639" Y="0.088318" Z="-0.691040"/>
+      <LightPosition X="0.278564" Y="0.364929" Z="-0.813232"/>
+      <LightPosition X="0.614624" Y="0.129883" Z="-0.497314"/>
+      <LightPosition X="0.840088" Y="0.123291" Z="-0.398560"/>
+      <LightPosition X="0.787720" Y="0.136169" Z="-0.224854"/>
+      <LightPosition X="0.748535" Y="0.137268" Z="-0.026733"/>
+      <LightPosition X="0.709229" Y="0.138367" Z="0.171387"/>
+      <LightPosition X="0.753052" Y="0.124512" Z="0.345947"/>
+      <LightPosition X="0.600952" Y="0.072144" Z="0.538574"/>
+      <LightPosition X="0.547852" Y="0.107788" Z="0.645874"/>
+      <LightPosition X="0.569824" Y="0.131042" Z="0.781006"/>
+      <LightPosition X="0.386475" Y="0.129639" Z="0.785645"/>
+      <LightPosition X="0.203003" Y="0.128174" Z="0.790405"/>
+      <LightPosition X="0.079590" Y="0.164307" Z="0.750366"/>
+      <LightPosition X="-0.058960" Y="0.196594" Z="0.680908"/>
+      <LightPosition X="-0.250732" Y="0.218079" Z="0.684814"/>
+      <LightPosition X="-0.391602" Y="0.174622" Z="0.787109"/>
+      <LightPosition X="-0.507690" Y="0.176453" Z="0.629028"/>
+      <LightPosition X="-0.623779" Y="0.178223" Z="0.470947"/>
+      <LightPosition X="-0.644531" Y="0.223816" Z="0.301147"/>
+      <LightPosition X="-0.840454" Y="0.208740" Z="0.167603"/>
+      <LightPosition X="-0.710938" Y="0.234741" Z="0.083008"/>
+      <LightPosition X="-0.749268" Y="0.234253" Z="-0.124756"/>
+      <LightPosition X="-0.534790" Y="0.200500" Z="-0.227051"/>
+      <LightPosition X="-0.626709" Y="0.224487" Z="-0.390381"/>
+      <LightPosition X="-0.494751" Y="0.225586" Z="-0.503418"/>
+      <LightPosition X="-0.354980" Y="0.273010" Z="-0.492554"/>
+      <LightPosition X="-0.156738" Y="0.185669" Z="-0.429565"/>
+      <LightPosition X="-0.057739" Y="0.277771" Z="-0.557373"/>
+      <LightPosition X="0.110352" Y="0.236328" Z="-0.535278"/>
+      <LightPosition X="0.284790" Y="0.275818" Z="-0.525269"/>
+      <LightPosition X="0.481689" Y="0.271851" Z="-0.433716"/>
+      <LightPosition X="0.678467" Y="0.267822" Z="-0.342285"/>
+      <LightPosition X="0.685669" Y="0.264771" Z="-0.176636"/>
+      <LightPosition X="0.692749" Y="0.261719" Z="-0.011108"/>
+      <LightPosition X="0.678345" Y="0.223511" Z="0.176880"/>
+      <LightPosition X="0.748901" Y="0.223267" Z="0.328979"/>
+      <LightPosition X="0.652344" Y="0.188049" Z="0.476807"/>
+      <LightPosition X="0.624268" Y="0.221741" Z="0.601685"/>
+      <LightPosition X="0.544434" Y="0.274719" Z="0.677490"/>
+      <LightPosition X="0.403687" Y="0.215088" Z="0.740112"/>
+      <LightPosition X="0.378296" Y="0.250854" Z="0.845947"/>
+      <LightPosition X="0.216431" Y="0.263733" Z="0.836182"/>
+      <LightPosition X="0.054443" Y="0.276672" Z="0.826416"/>
+      <LightPosition X="-0.058716" Y="0.291321" Z="0.708374"/>
+      <LightPosition X="-0.214722" Y="0.320801" Z="0.753662"/>
+      <LightPosition X="-0.366699" Y="0.322632" Z="0.697021"/>
+      <LightPosition X="-0.506104" Y="0.291443" Z="0.653809"/>
+      <LightPosition X="-0.552002" Y="0.317444" Z="0.478516"/>
+      <LightPosition X="-0.641235" Y="0.301086" Z="0.310181"/>
+      <LightPosition X="-0.730469" Y="0.284668" Z="0.141846"/>
+      <LightPosition X="-0.743286" Y="0.352112" Z="0.004761"/>
+      <LightPosition X="-0.666870" Y="0.336365" Z="-0.105469"/>
+      <LightPosition X="-0.538574" Y="0.311768" Z="-0.262207"/>
+      <LightPosition X="-0.338623" Y="0.336121" Z="-0.251343"/>
+      <LightPosition X="-0.326782" Y="0.342468" Z="-0.484741"/>
+      <LightPosition X="-0.115723" Y="0.310730" Z="-0.332275"/>
+      <LightPosition X="0.031128" Y="0.450378" Z="-0.645996"/>
+      <LightPosition X="0.126587" Y="0.445984" Z="-0.601318"/>
+      <LightPosition X="0.221924" Y="0.441528" Z="-0.556641"/>
+      <LightPosition X="0.529053" Y="0.342590" Z="-0.286377"/>
+      <LightPosition X="0.725464" Y="0.327148" Z="-0.003052"/>
+      <LightPosition X="0.651367" Y="0.378967" Z="0.062378"/>
+      <LightPosition X="0.689087" Y="0.356201" Z="0.176636"/>
+      <LightPosition X="0.554077" Y="0.340393" Z="0.354736"/>
+      <LightPosition X="0.533936" Y="0.349731" Z="0.433105"/>
+      <LightPosition X="0.475464" Y="0.318420" Z="0.565552"/>
+      <LightPosition X="0.312256" Y="0.297791" Z="0.587524"/>
+      <LightPosition X="0.199951" Y="0.320557" Z="0.772339"/>
+      <LightPosition X="0.090576" Y="0.355774" Z="0.690918"/>
+      <LightPosition X="-0.107544" Y="0.355469" Z="0.664795"/>
+      <LightPosition X="-0.124878" Y="0.418884" Z="0.695557"/>
+      <LightPosition X="-0.248169" Y="0.399780" Z="0.500000"/>
+      <LightPosition X="-0.477661" Y="0.406799" Z="0.479980"/>
+      <LightPosition X="-0.498901" Y="0.454102" Z="0.268433"/>
+      <LightPosition X="-0.471680" Y="0.455322" Z="0.145752"/>
+      <LightPosition X="-0.444580" Y="0.456543" Z="0.022949"/>
+      <LightPosition X="-0.417358" Y="0.457703" Z="-0.099854"/>
+      <LightPosition X="-0.390259" Y="0.458923" Z="-0.222534"/>
+      <LightPosition X="-0.243530" Y="0.459106" Z="-0.283447"/>
+      <LightPosition X="-0.079468" Y="0.430908" Z="-0.354736"/>
+      <LightPosition X="0.042236" Y="0.471924" Z="-0.302368"/>
+      <LightPosition X="0.197144" Y="0.479187" Z="-0.276123"/>
+      <LightPosition X="0.352173" Y="0.486450" Z="-0.250000"/>
+      <LightPosition X="0.512207" Y="0.471191" Z="-0.192627"/>
+      <LightPosition X="0.713623" Y="0.430298" Z="0.011963"/>
+      <LightPosition X="0.573853" Y="0.481445" Z="0.149170"/>
+      <LightPosition X="0.477173" Y="0.435669" Z="0.247070"/>
+      <LightPosition X="0.431152" Y="0.504272" Z="0.392822"/>
+      <LightPosition X="0.356934" Y="0.457458" Z="0.530884"/>
+      <LightPosition X="0.205322" Y="0.505615" Z="0.573120"/>
+      <LightPosition X="0.120239" Y="0.472229" Z="0.682007"/>
+      <LightPosition X="-0.021851" Y="0.488525" Z="0.569092"/>
+      <LightPosition X="-0.157349" Y="0.535095" Z="0.555786"/>
+      <LightPosition X="-0.314331" Y="0.487854" Z="0.559570"/>
+      <LightPosition X="-0.485352" Y="0.518188" Z="0.419434"/>
+      <LightPosition X="-0.498413" Y="0.551880" Z="0.253296"/>
+      <LightPosition X="-0.651123" Y="0.516724" Z="0.159912"/>
+      <LightPosition X="-0.450317" Y="0.571228" Z="-0.075195"/>
+      <LightPosition X="-0.345703" Y="0.547485" Z="-0.164062"/>
+      <LightPosition X="-0.240967" Y="0.523682" Z="-0.253052"/>
+      <LightPosition X="-0.064331" Y="0.573914" Z="-0.338745"/>
+      <LightPosition X="0.386475" Y="0.521912" Z="-0.165649"/>
+      <LightPosition X="0.184570" Y="0.588867" Z="-0.330933"/>
+      <LightPosition X="0.235474" Y="0.573669" Z="-0.100708"/>
+      <LightPosition X="0.399292" Y="0.540344" Z="-0.068604"/>
+      <LightPosition X="0.434570" Y="0.585388" Z="0.205444"/>
+      <LightPosition X="0.475220" Y="0.551514" Z="0.329224"/>
+      <LightPosition X="0.384766" Y="0.528992" Z="0.378174"/>
+      <LightPosition X="0.276489" Y="0.519836" Z="0.647095"/>
+      <LightPosition X="0.118530" Y="0.584229" Z="0.565308"/>
+      <LightPosition X="-0.046631" Y="0.560547" Z="0.592407"/>
+      <LightPosition X="-0.122192" Y="0.618958" Z="0.489746"/>
+      <LightPosition X="-0.270142" Y="0.654663" Z="0.441528"/>
+      <LightPosition X="-0.470581" Y="0.636353" Z="0.347778"/>
+      <LightPosition X="-0.456055" Y="0.682495" Z="0.195190"/>
+      <LightPosition X="-0.433594" Y="0.717407" Z="0.004517"/>
+      <LightPosition X="-0.339233" Y="0.693176" Z="-0.068726"/>
+      <LightPosition X="-0.244751" Y="0.668884" Z="-0.141968"/>
+      <LightPosition X="-0.190186" Y="0.679199" Z="-0.336548"/>
+      <LightPosition X="0.033813" Y="0.681824" Z="-0.194458"/>
+      <LightPosition X="0.075562" Y="0.654541" Z="-0.254028"/>
+      <LightPosition X="0.281128" Y="0.651062" Z="-0.077637"/>
+      <LightPosition X="0.368652" Y="0.651672" Z="0.019653"/>
+      <LightPosition X="0.350464" Y="0.668823" Z="0.189331"/>
+      <LightPosition X="0.214722" Y="0.648071" Z="0.314209"/>
+      <LightPosition X="0.181763" Y="0.695007" Z="0.387695"/>
+      <LightPosition X="0.081421" Y="0.738281" Z="0.390015"/>
+      <LightPosition X="-0.094482" Y="0.736572" Z="0.461792"/>
+      <LightPosition X="-0.181152" Y="0.706665" Z="0.307129"/>
+      <LightPosition X="-0.216431" Y="0.739624" Z="0.094360"/>
+      <LightPosition X="-0.299194" Y="0.769653" Z="-0.022949"/>
+      <LightPosition X="-0.106323" Y="0.752991" Z="0.067261"/>
+      <LightPosition X="0.077026" Y="0.753845" Z="0.120483"/>
+      <LightPosition X="0.044312" Y="0.808716" Z="0.261719"/>
+      <LightPosition X="-0.018677" Y="0.749146" Z="0.325195"/>
+      <LightPosition X="-0.105347" Y="0.806580" Z="0.415161"/>
+      <LightPosition X="-0.281616" Y="0.807678" Z="0.300781"/>
+      <LightPosition X="-0.348145" Y="0.762085" Z="0.176636"/>
+      <LightPosition X="-0.400146" Y="0.766907" Z="0.008423"/>
+      <LightPosition X="-0.290771" Y="0.778992" Z="-0.051880"/>
+      <LightPosition X="-0.181519" Y="0.791077" Z="-0.112305"/>
+      <LightPosition X="-0.072144" Y="0.803162" Z="-0.172607"/>
+      <LightPosition X="0.056519" Y="0.855652" Z="-0.086792"/>
+      <LightPosition X="0.084473" Y="0.859192" Z="0.066040"/>
+      <LightPosition X="0.112427" Y="0.862671" Z="0.218872"/>
+      <LightPosition X="0.198486" Y="0.807068" Z="0.374634"/>
+      <LightPosition X="0.075684" Y="0.789368" Z="0.467651"/>
+      <LightPosition X="-0.109131" Y="0.776489" Z="0.374634"/>
+      <LightPosition X="-0.233521" Y="0.799500" Z="0.186890"/>
+      <LightPosition X="-0.416138" Y="0.796021" Z="0.230347"/>
+      <LightPosition X="-0.395020" Y="0.811707" Z="0.049072"/>
+      <LightPosition X="-0.281738" Y="0.817505" Z="0.040039"/>
+      <LightPosition X="-0.168457" Y="0.823303" Z="0.030884"/>
+      <LightPosition X="-0.088379" Y="0.859619" Z="0.060669"/>
+      <LightPosition X="-0.008179" Y="0.895996" Z="0.090454"/>
+      <LightPosition X="-0.026611" Y="0.868103" Z="0.314453"/>
+      <LightPosition X="-0.191895" Y="0.875366" Z="0.192505"/>
+      <LightPosition X="-0.357178" Y="0.882629" Z="0.070679"/>
+      <LightPosition X="-0.160278" Y="0.874512" Z="-0.066406"/>
+      <LightPosition X="-0.097534" Y="0.885925" Z="-0.241211"/>
+      <LightPosition X="0.028687" Y="0.888550" Z="2.436401"/>
+      <LightPosition X="-0.020508" Y="0.885132" Z="0.105469"/>
+      <LightPosition X="-0.069580" Y="0.881714" Z="0.211426"/>
+      <LightPosition X="-0.118774" Y="0.878296" Z="0.317505"/>
+      <LightPosition X="-0.240845" Y="0.874451" Z="0.330322"/>
+      <LightPosition X="-0.320801" Y="0.920288" Z="0.270386"/>
+      <LightPosition X="-0.442139" Y="0.886902" Z="0.133057"/>
+      <LightPosition X="-0.285400" Y="0.891541" Z="-0.013794"/>
+      <LightPosition X="-0.186646" Y="0.905273" Z="0.064941"/>
+      <LightPosition X="-0.087891" Y="0.919067" Z="0.143799"/>
+      <LightPosition X="-0.037842" Y="0.913879" Z="0.283081"/>
+      <LightPosition X="0.012085" Y="0.908691" Z="0.422363"/>
+      <LightPosition X="-0.141235" Y="0.917419" Z="0.373779"/>
+      <LightPosition X="-0.181763" Y="0.945129" Z="0.262329"/>
+      <LightPosition X="-0.222412" Y="0.972839" Z="0.151001"/>
+      <LightPosition X="-0.172119" Y="0.935303" Z="0.025513"/>
+      <LightPosition X="0.022583" Y="0.940674" Z="0.123535"/>
+      <LightPosition X="-0.035278" Y="0.893433" Z="-0.086548"/>
+      <LightPosition X="-0.120728" Y="0.981812" Z="0.254028"/>
+      <LightPosition X="-0.029785" Y="1.000000" Z="0.262207"/>
+      <LightPosition X="0.004028" Y="0.970337" Z="0.200073"/>
+      <LightPosition X="0.069458" Y="0.923401" Z="0.361328"/>
+      <LightPosition X="-0.038574" Y="0.933838" Z="0.376709"/>
+      <LightPosition X="-0.185669" Y="0.970703" Z="0.355835"/>
+      <LightPosition X="-0.202271" Y="0.971436" Z="0.280762"/>
+      <LightPosition X="-0.218994" Y="0.972229" Z="0.205688"/>
+      <LightPosition X="-0.219482" Y="0.937012" Z="0.058960"/>
+      <LightPosition X="-0.053833" Y="0.930237" Z="0.033569"/>
+      <LightPosition X="0.032349" Y="0.935974" Z="0.167847"/>
+      <LightPosition X="0.206909" Y="0.907837" Z="0.295898"/>
+      <LightPosition X="0.085938" Y="0.910095" Z="0.366333"/>
+      <LightPosition X="-0.035156" Y="0.912354" Z="0.436768"/>
+      <LightPosition X="-0.187500" Y="0.907654" Z="0.370850"/>
+      <LightPosition X="-0.245239" Y="0.905090" Z="0.390137"/>
+      <LightPosition X="-0.359497" Y="0.845337" Z="0.291870"/>
+      <LightPosition X="-0.446289" Y="0.862549" Z="0.085083"/>
+      <LightPosition X="-0.272705" Y="0.852234" Z="-0.046143"/>
+      <LightPosition X="-0.194580" Y="0.857727" Z="-0.079224"/>
+      <LightPosition X="-0.116577" Y="0.863220" Z="-0.112183"/>
+      <LightPosition X="-0.038574" Y="0.868713" Z="-0.145264"/>
+      <LightPosition X="0.074585" Y="0.855286" Z="0.161011"/>
+      <LightPosition X="0.019043" Y="0.901184" Z="0.120361"/>
+      <LightPosition X="0.135010" Y="0.878601" Z="0.228882"/>
+      <LightPosition X="0.026489" Y="0.886108" Z="0.305420"/>
+      <LightPosition X="-0.036987" Y="0.836731" Z="0.415283"/>
+      <LightPosition X="-0.035889" Y="0.850159" Z="0.489990"/>
+      <LightPosition X="-0.196899" Y="0.861633" Z="0.390991"/>
+      <LightPosition X="-0.292480" Y="0.796204" Z="0.431274"/>
+      <LightPosition X="-0.298950" Y="0.831665" Z="0.236938"/>
+      <LightPosition X="-0.409912" Y="0.788391" Z="0.202393"/>
+      <LightPosition X="-0.423828" Y="0.849731" Z="0.058838"/>
+      <LightPosition X="-0.294067" Y="0.834106" Z="-0.001343"/>
+      <LightPosition X="-0.164307" Y="0.818420" Z="-0.061523"/>
+      <LightPosition X="-0.205200" Y="0.768372" Z="-0.031860"/>
+      <LightPosition X="-0.038696" Y="0.819763" Z="-0.195435"/>
+      <LightPosition X="0.066895" Y="0.828552" Z="-0.074219"/>
+      <LightPosition X="0.172607" Y="0.837341" Z="0.046997"/>
+      <LightPosition X="0.265747" Y="0.792725" Z="0.238403"/>
+      <LightPosition X="0.218018" Y="0.850342" Z="0.322632"/>
+      <LightPosition X="0.214111" Y="0.787354" Z="0.393921"/>
+      <LightPosition X="0.073853" Y="0.785400" Z="0.357788"/>
+      <LightPosition X="-0.066284" Y="0.783447" Z="0.321655"/>
+      <LightPosition X="-0.232666" Y="0.783325" Z="0.475708"/>
+      <LightPosition X="-0.363892" Y="0.730408" Z="0.408325"/>
+      <LightPosition X="-0.312988" Y="0.743774" Z="0.255005"/>
+      <LightPosition X="-0.429810" Y="0.762878" Z="0.115845"/>
+      <LightPosition X="-0.248657" Y="0.739929" Z="0.009155"/>
+      <LightPosition X="-0.286621" Y="0.796936" Z="-0.081543"/>
+      <LightPosition X="-0.189819" Y="0.781677" Z="-0.137207"/>
+      <LightPosition X="-0.093018" Y="0.766418" Z="-0.192993"/>
+      <LightPosition X="0.058838" Y="0.759460" Z="-0.203125"/>
+      <LightPosition X="0.144165" Y="0.769348" Z="-0.156128"/>
+      <LightPosition X="0.272827" Y="0.790527" Z="0.058228"/>
+      <LightPosition X="0.363403" Y="0.735657" Z="0.192017"/>
+      <LightPosition X="0.221558" Y="0.688354" Z="0.229614"/>
+      <LightPosition X="0.291138" Y="0.716064" Z="0.401978"/>
+      <LightPosition X="0.237305" Y="0.673584" Z="0.369507"/>
+      <LightPosition X="0.046387" Y="0.652466" Z="0.526733"/>
+      <LightPosition X="-0.072266" Y="0.683411" Z="0.449951"/>
+      <LightPosition X="-0.261108" Y="0.667358" Z="0.566284"/>
+      <LightPosition X="-0.352051" Y="0.668640" Z="0.453003"/>
+      <LightPosition X="-0.442871" Y="0.669922" Z="0.339722"/>
+      <LightPosition X="-0.519653" Y="0.721497" Z="0.226074"/>
+      <LightPosition X="-0.418701" Y="0.702576" Z="0.121826"/>
+      <LightPosition X="-0.415894" Y="0.734680" Z="-0.046021"/>
+      <LightPosition X="-0.276733" Y="0.723511" Z="-0.188965"/>
+      <LightPosition X="-0.137573" Y="0.712341" Z="-0.331787"/>
+      <LightPosition X="-0.027100" Y="0.699890" Z="-0.301758"/>
+      <LightPosition X="0.083252" Y="0.687378" Z="-0.271606"/>
+      <LightPosition X="0.153931" Y="0.706238" Z="-0.056641"/>
+      <LightPosition X="0.255615" Y="0.691040" Z="0.103271"/>
+      <LightPosition X="0.049316" Y="0.684326" Z="0.297974"/>
+      <LightPosition X="0.116577" Y="0.685791" Z="0.371338"/>
+      <LightPosition X="0.183960" Y="0.687195" Z="0.444702"/>
+      <LightPosition X="0.251221" Y="0.688599" Z="0.518066"/>
+      <LightPosition X="0.092041" Y="0.698303" Z="0.433716"/>
+      <LightPosition X="0.160400" Y="0.622620" Z="0.512329"/>
+      <LightPosition X="-0.010376" Y="0.616150" Z="0.526733"/>
+      <LightPosition X="-0.181152" Y="0.609619" Z="0.541260"/>
+      <LightPosition X="-0.345581" Y="0.599182" Z="0.516357"/>
+      <LightPosition X="-0.358765" Y="0.587280" Z="0.340942"/>
+      <LightPosition X="-0.456543" Y="0.565613" Z="0.281982"/>
+      <LightPosition X="-0.450806" Y="0.580017" Z="0.177246"/>
+      <LightPosition X="-0.517334" Y="0.583130" Z="0.043579"/>
+      <LightPosition X="-0.404175" Y="0.556274" Z="-0.175415"/>
+      <LightPosition X="-0.352661" Y="0.551331" Z="-0.334473"/>
+      <LightPosition X="-0.275635" Y="0.592896" Z="-0.338135"/>
+      <LightPosition X="-0.202881" Y="0.589783" Z="-0.563965"/>
+      <LightPosition X="0.007568" Y="0.574036" Z="-0.412842"/>
+      <LightPosition X="0.074463" Y="0.482300" Z="-0.380981"/>
+      <LightPosition X="0.244507" Y="0.479187" Z="-0.301270"/>
+      <LightPosition X="0.260864" Y="0.566650" Z="-0.293823"/>
+      <LightPosition X="0.461426" Y="0.456726" Z="-0.064209"/>
+      <LightPosition X="0.472412" Y="0.495789" Z="0.061035"/>
+      <LightPosition X="0.487061" Y="0.459778" Z="0.176025"/>
+      <LightPosition X="0.550049" Y="0.448242" Z="0.355469"/>
+      <LightPosition X="0.535889" Y="0.489990" Z="0.476807"/>
+      <LightPosition X="0.450439" Y="0.452454" Z="0.582520"/>
+      <LightPosition X="0.364868" Y="0.414917" Z="0.688110"/>
+      <LightPosition X="0.258545" Y="0.465332" Z="0.692261"/>
+      <LightPosition X="0.084839" Y="0.447754" Z="0.732666"/>
+      <LightPosition X="-0.057861" Y="0.469971" Z="0.626587"/>
+      <LightPosition X="-0.217407" Y="0.423462" Z="0.650269"/>
+      <LightPosition X="-0.373535" Y="0.432739" Z="0.589355"/>
+      <LightPosition X="-0.529541" Y="0.442078" Z="0.528320"/>
+      <LightPosition X="-0.559692" Y="0.431763" Z="0.335205"/>
+      <LightPosition X="-0.615967" Y="0.511841" Z="0.277222"/>
+      <LightPosition X="-0.681030" Y="0.468628" Z="0.092041"/>
+      <LightPosition X="-0.548218" Y="0.444214" Z="0.016602"/>
+      <LightPosition X="-0.499512" Y="0.442871" Z="-0.174316"/>
+      <LightPosition X="-0.376099" Y="0.494385" Z="-0.279175"/>
+      <LightPosition X="-0.224365" Y="0.475525" Z="-0.399292"/>
+      <LightPosition X="-0.141724" Y="0.498901" Z="-0.422852"/>
+      <LightPosition X="-0.021973" Y="0.462280" Z="-0.381470"/>
+      <LightPosition X="0.073730" Y="0.473938" Z="-0.467651"/>
+      <LightPosition X="0.169434" Y="0.485657" Z="-0.553833"/>
+      <LightPosition X="0.438599" Y="0.345154" Z="-0.430542"/>
+      <LightPosition X="0.473145" Y="0.412415" Z="-0.289429"/>
+      <LightPosition X="0.639893" Y="0.342651" Z="-0.263062"/>
+      <LightPosition X="0.709839" Y="0.372742" Z="0.025269"/>
+      <LightPosition X="0.676758" Y="0.367188" Z="0.179077"/>
+      <LightPosition X="0.643677" Y="0.361633" Z="0.332886"/>
+      <LightPosition X="0.561523" Y="0.375183" Z="0.448242"/>
+      <LightPosition X="0.567017" Y="0.387878" Z="0.523926"/>
+      <LightPosition X="0.572510" Y="0.400574" Z="0.599609"/>
+      <LightPosition X="0.286377" Y="0.380432" Z="0.722900"/>
+      <LightPosition X="0.168579" Y="0.426270" Z="0.798462"/>
+      <LightPosition X="-0.020142" Y="0.383789" Z="0.744385"/>
+      <LightPosition X="-0.151489" Y="0.322266" Z="0.748657"/>
+      <LightPosition X="-0.287476" Y="0.358765" Z="0.677124"/>
+      <LightPosition X="-0.423584" Y="0.395325" Z="0.605591"/>
+      <LightPosition X="-0.551636" Y="0.297913" Z="0.563965"/>
+      <LightPosition X="-0.602173" Y="0.326721" Z="0.332642"/>
+      <LightPosition X="-0.562988" Y="0.304993" Z="0.203247"/>
+      <LightPosition X="-0.734131" Y="0.324219" Z="0.138184"/>
+      <LightPosition X="-0.687256" Y="0.340149" Z="-0.059814"/>
+      <LightPosition X="-0.688721" Y="0.302917" Z="-0.278076"/>
+      <LightPosition X="-0.555176" Y="0.313354" Z="-0.375244"/>
+      <LightPosition X="-0.384033" Y="0.360474" Z="-0.410400"/>
+      <LightPosition X="-0.245728" Y="0.365662" Z="-0.443359"/>
+      <LightPosition X="-0.107544" Y="0.370850" Z="-0.476318"/>
+      <LightPosition X="0.008057" Y="0.325378" Z="-0.600464"/>
+      <LightPosition X="0.132568" Y="0.360718" Z="-0.519409"/>
+      <LightPosition X="0.276733" Y="0.345825" Z="-0.478394"/>
+      <LightPosition X="0.421021" Y="0.330994" Z="-0.437378"/>
+      <LightPosition X="0.635742" Y="0.300293" Z="-0.361938"/>
+      <LightPosition X="0.729370" Y="0.245483" Z="-0.295410"/>
+      <LightPosition X="0.323853" Y="0.415466" Z="-0.611694"/>
+      <LightPosition X="0.673706" Y="0.253418" Z="-0.359131"/>
+      <LightPosition X="0.722412" Y="0.252258" Z="-0.173340"/>
+      <LightPosition X="0.771240" Y="0.251038" Z="0.012573"/>
+      <LightPosition X="0.767212" Y="0.214905" Z="0.186279"/>
+      <LightPosition X="0.638306" Y="0.258057" Z="0.363281"/>
+      <LightPosition X="0.622192" Y="0.224731" Z="0.514771"/>
+      <LightPosition X="0.454468" Y="0.255188" Z="0.465698"/>
+      <LightPosition X="0.400513" Y="0.309631" Z="0.594238"/>
+      <LightPosition X="0.212524" Y="0.314026" Z="0.653442"/>
+      <LightPosition X="0.165405" Y="0.293945" Z="0.843628"/>
+      <LightPosition X="-0.015137" Y="0.286499" Z="0.807739"/>
+      <LightPosition X="-0.131836" Y="0.271301" Z="0.802246"/>
+      <LightPosition X="-0.248413" Y="0.256104" Z="0.796875"/>
+      <LightPosition X="-0.406494" Y="0.189087" Z="0.735962"/>
+      <LightPosition X="-0.507812" Y="0.154480" Z="0.632324"/>
+      <LightPosition X="-0.609009" Y="0.119873" Z="0.528687"/>
+      <LightPosition X="-0.832520" Y="0.148132" Z="0.496948"/>
+      <LightPosition X="-0.563965" Y="0.039795" Z="0.118530"/>
+      <LightPosition X="-0.952759" Y="0.168579" Z="0.131104"/>
+      <LightPosition X="-0.899536" Y="0.070496" Z="0.027100"/>
+      <LightPosition X="-0.799194" Y="0.159302" Z="-0.168213"/>
+      <LightPosition X="-0.742920" Y="0.090637" Z="-0.339966"/>
+      <LightPosition X="-0.700928" Y="0.117981" Z="-0.489014"/>
+      <LightPosition X="-0.538940" Y="0.240479" Z="-0.562134"/>
+      <LightPosition X="-0.456299" Y="0.207214" Z="-0.709106"/>
+      <LightPosition X="-0.345459" Y="0.213135" Z="-0.635254"/>
+      <LightPosition X="-0.190796" Y="0.184692" Z="-0.772705"/>
+      <LightPosition X="-0.013794" Y="0.137329" Z="-0.604858"/>
+      <LightPosition X="0.086670" Y="0.170166" Z="-0.720703"/>
+      <LightPosition X="0.420166" Y="0.000000" Z="-1.000000"/>
+      <LightPosition X="0.533081" Y="0.129211" Z="-0.603516"/>
+      <LightPosition X="0.700562" Y="0.122375" Z="-0.583862"/>
+      <LightPosition X="0.868164" Y="0.115601" Z="-0.564087"/>
+      <LightPosition X="0.963501" Y="0.106384" Z="-0.426636"/>
+      <LightPosition X="0.933960" Y="0.174194" Z="-0.309937"/>
+      <LightPosition X="1.000000" Y="0.177734" Z="-0.040894"/>
+      <LightPosition X="0.950195" Y="0.219421" Z="0.143433"/>
+      <LightPosition X="0.812500" Y="0.135498" Z="0.225586"/>
+      <LightPosition X="0.807251" Y="0.114624" Z="0.369507"/>
+      <LightPosition X="0.658325" Y="0.145142" Z="0.488037"/>
+      <LightPosition X="0.661011" Y="0.189392" Z="0.651001"/>
+      <LightPosition X="0.504028" Y="0.131592" Z="0.680664"/>
+      <LightPosition X="0.425781" Y="0.136597" Z="0.736938"/>
+      <LightPosition X="0.315918" Y="0.089172" Z="0.854980"/>
+      <LightPosition X="0.181030" Y="0.079773" Z="0.934570"/>
+      <LightPosition X="0.067383" Y="0.102051" Z="0.867188"/>
+      <LightPosition X="-0.080566" Y="0.099487" Z="0.894165"/>
+      <LightPosition X="-0.248413" Y="0.190491" Z="0.867065"/>
+      <LightPosition X="-0.276611" Y="0.206482" Z="1.000000"/>
+      <LightPosition X="-0.492798" Y="0.181641" Z="0.958862"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="Window" Dir="L" WorldPosX="-275.8002" WorldPosY="-47.9800" WorldPosZ="-39.7743" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="4" PointData="217.762695,192.386887,0.000000,216.346313,309.575531,0.000000,452.835266,310.687958,0.000000,452.835266,186.774460,0.000000" cPointData="" versionNumber="5" StartChannel="1361">
+      <ControllerConnection Protocol="Generic Serial"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" Dir="R" name="Library" WorldPosX="-173.0147" WorldPosY="-8.0510" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="4" PointData="3.605331,-5.632152,0.000000,5.121185,175.510895,0.000000,81.671165,173.995041,0.000000,89.250359,-4.874232,0.000000" cPointData="" versionNumber="5" StartChannel="1211">
+      <ControllerConnection Port="1" Protocol="Generic Serial"/>
+    </model>
+    <model StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Matrix" DisplayAs="Horiz Matrix" LayoutGroup="Default" parm1="9" parm2="9" Dir="L" StartSide="B" AlternateNodes="false" WorldPosX="-102.4107" WorldPosY="191.5520" WorldPosZ="0.0000" ScaleX="3.2491" ScaleY="3.4445" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="1661">
+      <ControllerConnection Protocol="Generic Serial"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0007">
+    <effect name="main" settings="CopyFormat1&#x9;0&#x9;1&#x9;4&#x9;0&#x9;-1&#x9;NO_PASTE_BY_CELL&#xA;Butterfly&#x9;E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1&#x9;C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1&#x9;118550&#x9;124200&#x9;4&#x9;-1000&#x9;NO_PASTE_BY_CELL&#xA;" version="0007" xLightsVersion="2021.40"/>
+  </effects>
+  <views>
+    <view name="Quadri" models="Square1,Square2"/>
+    <view name="standard" models="All,Flashes,Library,Matrix,Tree,Window"/>
+  </views>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" LayoutGroup="All Previews" models="Twinkly Layout" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid" name="Tree"/>
+    <modelGroup selected="0" LayoutGroup="Default" name="Flashes" models="Matrix,Twinkly Layout,Library,Window" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid"/>
+    <modelGroup selected="0" name="All" LayoutGroup="Default" models="Library,Matrix,Twinkly Layout,Window" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid"/>
+  </modelGroups>
+  <layoutGroups>
+    <layoutGroup name="Top View" scaleImage="0"/>
+  </layoutGroups>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293500;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293500;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=157;besth=155;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=495;besth=882;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=458;besth=324;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1080;besth=720;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=405;besth=395;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=315;besth=327;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=323;besth=473;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=225;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=224;floaty=224;floatw=338;floath=272|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=142;besth=60;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=349|dock_size(1,0,0)=128|dock_size(5,0,0)=144|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <storedLayoutGroup value="Default"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+  </settings>
+  <colors>
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="64"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints>
+    <Camera name="Top View" posX="0.000000" posY="0.000000" posZ="0.000000" angleX="85.000000" angleY="355.000000" distance="-2000.000000" zoom="0.324991" panx="25.872795" pany="35.104046" panz="15.929892" zoom_corrx="0.000000" zoom_corry="0.000000" is_3d="1"/>
+    <Camera name="Left View" posX="0.000000" posY="0.000000" posZ="0.000000" angleX="2.000000" angleY="91.000000" distance="-2000.000000" zoom="0.282429" panx="-128.525375" pany="-41.895050" panz="-11.244530" zoom_corrx="0.000000" zoom_corry="0.000000" is_3d="1"/>
+  </Viewpoints>
+</xrgb>
